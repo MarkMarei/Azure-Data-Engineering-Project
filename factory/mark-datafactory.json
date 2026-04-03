@@ -1,0 +1,9 @@
+{
+	"name": "mark-datafactory",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4bf913bf-d50c-409b-aa23-d5eb916b50d8",
+		"tenantId": "eaf624c8-a0c4-4195-87d2-443e5d7516cd"
+	}
+}
